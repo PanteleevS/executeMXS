@@ -1,5 +1,9 @@
 # executeMXS
 tiny util that helps to execute maxscript function by MXSEditor command shortcuts
+</br>
+</br>
+<img src='https://raw.githubusercontent.com/fatbbc/executeMXS/master/execMXSdemo.gif'/>
+</br>
 
 <br/>
 <h3>#usage</h3>
